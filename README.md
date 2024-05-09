@@ -43,7 +43,7 @@ library.
 
 
     ```
-    data/soapy/images
+    data/data/images
     ├── 1
     ├── 2
     ├── 3
